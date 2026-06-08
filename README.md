@@ -296,6 +296,8 @@ A collection of resources for working with sequential and time series data
 - [binjr](https://github.com/binjr/binjr) A Time Series Data Browser.
 - [CompEngine](https://www.comp-engine.org/)  A self-organizing database of time-series data, that allows you to upload time-series data and interactively visualize similar data that have been measured by others.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain behavioral time series analysis for AI agent wallets on Solana. Detects anomalous patterns (wash trading, recency, payer diversity) and exposes scores via MCP tools (`score_agent`, `preflight_check`).
+
 ## 📚 Books
 
 - [Bayesian Time Series Models ](https://www.cambridge.org/pl/academic/subjects/computer-science/pattern-recognition-and-machine-learning/bayesian-time-series-models?format=HB) 💲 _David Barber, A. Taylan Cemgil, Silvia Chiappa_, Cambridge Academic Press 2011
